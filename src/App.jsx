@@ -27,7 +27,8 @@ function App() {
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
-        This Project is created by Hajra Mahnoor Azka Aleeha
+        This Project is created by Hajra Mahnoor Azka Aleeha.
+        These are deveops team members.
       </p>
     </>
   )
