@@ -32,11 +32,9 @@ It uses **GitHub Actions** to implement a **CI/CD pipeline**, which ensures that
 
 ## Team Members
 
-* Hajra Rizwan (Repo Creator)
-* Mahnoor
-* Asif
-* Azka
-* Humayon
+* Hajra Rizwan 
+* Mahnoor Asif
+* Azka Humayon
 * Aleeha Akhlaq
 
 ---
