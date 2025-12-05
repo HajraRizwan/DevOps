@@ -11,7 +11,7 @@ It uses **GitHub Actions** to implement a **CI/CD pipeline**, which ensures that
 
 ## Features
 
-* React + Vite frontend
+* React with Vite frontend
 * Dockerized for containerized deployment
 * Continuous deployment with GitHub Actions
 * Automatic updates: any GitHub push updates the live app
